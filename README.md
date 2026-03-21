@@ -56,32 +56,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/RolandoJr23/FINDSup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RolandoJr23&repo=FINDSup&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/RolandoJr23/PointOfSales">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RolandoJr23&repo=PointOfSales&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 🖼️ Project Previews
-
-<p align="center">
-  <a href="https://github.com/RolandoJr23/FINDSup">
-    <img src="/mnt/data/9cdfd02f-7694-4506-b3ca-6e2e35c4e3c3.png" alt="FINDSup Screenshot" width="450" />
-  </a>
-  <a href="https://github.com/RolandoJr23/PointOfSales">
-    <img src="https://via.placeholder.com/450x250.png?text=Point+Of+Sales+Screenshot" alt="PointOfSales Screenshot" />
-  </a>
-</p>
-
----
-
 ## 🌐 Portfolio
 
 <p align="center">
