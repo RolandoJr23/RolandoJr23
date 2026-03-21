@@ -25,9 +25,10 @@
 💻 Passionate Full Stack Developer building modern, scalable, and high-performance web applications.
 
 * 🎨 Frontend: HTML, CSS, JavaScript, TypeScript
-* ⚙️ Backend: Python, C#
-* 🗄️ Database: MySQL, MSSQL, MongoDB
-* ⚛️ Framework: React
+* ⚙️ Backend: Nodejs, PHP, Python, C#, REST API
+* 🗄️ Database: MySQL, MSSQL, MongoDB, PostgreSQL
+* ⚛️ Framework: React, Express.js, .Net
+* 👨‍💻 Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn
 * 🎯 Focus: Clean architecture + great user experience
 
 ---
