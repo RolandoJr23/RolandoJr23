@@ -28,7 +28,7 @@
 * ⚙️ Backend: Nodejs, PHP, Python, C#, REST API
 * 🗄️ Database: MySQL, MSSQL, MongoDB, PostgreSQL
 * ⚛️ Framework: React, Express.js, .Net
-* 👨‍💻 Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn
+* 👨‍💻 Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn, Render, Vercel
 * 🎯 Focus: Clean architecture + great user experience
 
 ---
