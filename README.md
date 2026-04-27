@@ -36,9 +36,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,mysql,mongodb,postgresql" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/MSSQL-1C6EA4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,mysql,mssql,mongodb,postgresql" />
 </p>
 
 ---
