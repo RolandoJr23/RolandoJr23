@@ -51,6 +51,4 @@ Now, I am currently focusing on software development. I specialize in React and 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RJRHRNDZ23&theme=github-dark&hide_border=true&bg_color=0D1117&color=53CBF3&line=53CBF3&point=FFFFFF"/>
 </p>
 
-</div>
-
 *"Continuously learning, building, and evolving."*
