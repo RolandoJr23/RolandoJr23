@@ -43,15 +43,12 @@ Now, I am currently focusing on software development. I specialize in React and 
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RJRHRNDZ23&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RJRHRNDZ23&theme=github-dark-blue&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RJRHRNDZ23&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=RJRHRNDZ23&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RJRHRNDZ23&theme=github-dark&hide_border=true&bg_color=0D1117&color=53CBF3&line=53CBF3&point=FFFFFF"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RJRHRNDZ23&theme=github-dark&hide_border=true&bg_color=0D1117&color=53CBF3&line=53CBF3&point=FFFFFF"/>
 </p>
 
 </div>
