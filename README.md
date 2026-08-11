@@ -19,7 +19,7 @@ Now, I am currently focusing on software development. I specialize in React and 
 </p>
 
 * Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind
-* Backend: Nodejs, PHP, Python, C#, REST API
+* Backend: Nodejs, PHP, Python, C#, Flask API, REST API
 * Database: MySQL, MSSQL, MongoDB, PostgreSQL, Supabase
 * Framework: React, Next.js, Express.js, .Net
 * Development Tools: VS Code, Visual Studio 2022, Github, Postman, npm/yarn, Render, Vercel
